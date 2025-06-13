@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/m00ndiety/Grow-a-garden/refs/heads/main/Protected_6420310328420495.lua.txt'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/m00ndiety/Grow-a-garden/refs/heads/main/Protected_4984352342812376.lua.txt'))()
